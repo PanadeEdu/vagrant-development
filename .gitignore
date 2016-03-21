@@ -3,3 +3,6 @@
 !.gitkeep
 /disks/*
 /home/*
+/documentation/html/*
+/documentation/docs/_build/*
+
